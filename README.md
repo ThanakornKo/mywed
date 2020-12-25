@@ -1,2 +1,1 @@
-# mywed
-This Project for softeng lab
+# My Profile
